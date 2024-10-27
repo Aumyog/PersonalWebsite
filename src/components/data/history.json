@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Front-End Developer",
+      "organisation": "Quicko",
+      "startDate": "July, 2023",
+      "endDate": "September 2023",
+      "experiences": ["Worked on Websites Front-End", "Website Reviewed by 150 users"],
+      "imageSrc": "history/RedLogo.png"
+    },
+    {
+      "role": "Software Dev",
+      "organisation": "AutoVators",
+      "startDate": "March, 2022",
+      "endDate": "July, 2022",
+      "experiences": ["Worked on Teams's Wesbite", "Coded Team's Arduino Board"],
+      "imageSrc": "history/Auto.png"
+    }
+  ]

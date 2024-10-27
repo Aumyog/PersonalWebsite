@@ -1,0 +1,19 @@
+[
+    {
+      "title": "Quicko",
+      "imageSrc": "projects/Quickoweb.png",
+      "description": "Grocery delivery Website",
+      "skills": ["React", "Html+CSS", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Aumyog/qUickwEb"
+    },
+    {
+      "title": "AutoVators",
+      "imageSrc": "projects/Autovators.png",
+      "description": "An Automobile project",
+      "skills": ["Html","CSS","Js","Vanilla"],
+      "demo": "https://autovators.github.io/website/",
+      "source": "https://www.github.com"
+    }
+  ]
+  
